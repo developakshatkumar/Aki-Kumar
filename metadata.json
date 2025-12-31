@@ -1,0 +1,7 @@
+{
+  "name": "DocAssist",
+  "description": "A privacy-first document explainer that helps you understand health data, prescriptions, and complex reports using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
